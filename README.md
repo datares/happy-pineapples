@@ -1,9 +1,8 @@
 # World Happiness Analysis
 
-Throughout history, humans have searched for "happiness", but what really drives our perceptions of happiness? Team Happy Pineapples at UCLA DataRes attempt to address this question in the article [INSERT YOUR TEAM'S ARTICLE TITLE HERE](INSERT URL)". This repositories contains all the code, analyses, and explanations for the visualizations and discoveries found in the aforementioned article.
+Throughout history, humans have searched for "happiness", but what really drives our perceptions of happiness? Team Happy Pineapples at UCLA DataRes attempt to address this question in the article "Don't Worry, Be Happy". This repositories contains all the code, analyses, and explanations for the visualizations and discoveries found in the aforementioned article.
 
-Contributors: [Rachel Li](https://github.com/rachelli99), [Aarushi Gupta](https://github.com/gupta-aarushi), [Charlotte Huang](https://github.com/charlotte0408), 
-[William Huang](https://github.com/whuang37), [Charisse Hung](https://github.com/charissehung).
+Contributors: [Rachel Li](https://github.com/rachelli99), [William Huang](https://github.com/whuang37), [Charisse Hung](https://github.com/charissehung), [Charlotte Huang](https://github.com/charlotte0408), [Aarushi Gupta](https://github.com/gupta-aarushi).
 
 # Data
 The data primarily used to develop our Medium article came from: [INSERT DATA SOURCE](https://www.kaggle.com/mathurinache/world-happiness-report). This data is sourced from the World Happiness Reports, which includes values for 153 countries from the years 2015 to 2020. Many of our analyses focus on the 2020 dataset. The previous datasets have different metrics for each of the columns. If interested in the values for previous years, please refer to the World Happiness Report 2015-2019 for that data.
