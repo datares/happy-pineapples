@@ -5,7 +5,7 @@ Throughout history, humans have searched for "happiness", but what really drives
 Contributors: [Rachel Li](https://github.com/rachelli99), [William Huang](https://github.com/whuang37), [Charisse Hung](https://github.com/charissehung), [Charlotte Huang](https://github.com/charlotte0408), [Aarushi Gupta](https://github.com/gupta-aarushi).
 
 # Data
-The data primarily used to develop our Medium article came from: [INSERT DATA SOURCE](https://www.kaggle.com/mathurinache/world-happiness-report). This data is sourced from the World Happiness Reports, which includes values for 153 countries from the years 2015 to 2020. Many of our analyses focus on the 2020 dataset. The previous datasets have different metrics for each of the columns. If interested in the values for previous years, please refer to the World Happiness Report 2015-2019 for that data.
+The data primarily used to develop our Medium article came from [here](https://www.kaggle.com/mathurinache/world-happiness-report). This data is sourced from the World Happiness Reports, which includes values for 153 countries from the years 2015 to 2020. Many of our analyses focus on the 2020 dataset. The previous datasets have different metrics for each of the columns. If interested in the values for previous years, please refer to the World Happiness Report 2015-2019 for that data.
 
 The data set contained the following columns:
 * `Country name` - Name of the country.
