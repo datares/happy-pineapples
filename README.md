@@ -1,6 +1,6 @@
 # World Happiness Analysis
 
-Throughout history, humans have searched for "happiness", but what really drives our perceptions of happiness? Team Happy Pineapples at UCLA DataRes attempt to address this question in the article "Don't Worry, Be Happy". This repositories contains all the code, analyses, and explanations for the visualizations and discoveries found in the aforementioned article.
+Throughout history, humans have searched for "happiness", but what really drives our perceptions of happiness? Team Happy Pineapples at UCLA DataRes attempted to address this question in the article "Don't Worry, Be Happy". This repository contains all the code, analyses, and explanations for the visualizations and discoveries found in the aforementioned article.
 
 Contributors: [Rachel Li](https://github.com/rachelli99), [William Huang](https://github.com/whuang37), [Charisse Hung](https://github.com/charissehung), [Charlotte Huang](https://github.com/charlotte0408), [Aarushi Gupta](https://github.com/gupta-aarushi).
 
